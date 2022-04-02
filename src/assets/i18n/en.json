@@ -1,0 +1,11 @@
+{
+    "home": {
+    "title": "Home page",
+    "welcome_text": "Make people fall in love with your ideas.",
+    "email_text": "Email us at {{email}}",
+    "sum_text": "When the value {{value1}} added to value {{value2}} = "
+    },
+    "settings": {
+    "title": "Settings page"
+    }
+    }

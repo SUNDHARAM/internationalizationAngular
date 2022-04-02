@@ -1,0 +1,11 @@
+{
+    "home": {
+    "title": "página de inicio",
+    "welcome_text": "Tu texto de bienvenida",
+    "email_text": "Envíenos un correo electrónico a {{email}}",
+    "sum_text": "Cuando el valor {{value1}} se suma al valor {{value2}} ="
+    },
+    "settings": {
+    "title": "Página de configuración"
+    }
+}

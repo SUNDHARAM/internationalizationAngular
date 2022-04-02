@@ -1,0 +1,18 @@
+.homebody{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    align-content: center;
+    font-size: 30px;
+}
+h1{
+    font-weight: 800;
+}
+.images{
+    align-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url("https://cdn-prod.medicalnewstoday.com/content/images/articles/325/325466/man-walking-dog.jpg"); 
+    height: 600px;
+    width: 100%;
+}

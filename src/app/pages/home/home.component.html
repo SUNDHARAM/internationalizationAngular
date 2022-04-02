@@ -1,0 +1,15 @@
+<div class="images">
+    <div class="homebody">
+        <h1 translate>home.title</h1>
+        <br>
+        <h2 translate>home.welcome_text</h2>
+        <br><br>
+        <span [innerHTML]="'home.sum_text' | translate: { value1: a, value2: b }"></span> 
+        {{a+b}}
+        <br><br>
+        <a routerLink='/settings' translate>settings.title</a>
+        <br><br>
+        <span [innerHTML]="'home.email_text' | translate: { email: email_response }"></span>
+    </div>
+
+</div>

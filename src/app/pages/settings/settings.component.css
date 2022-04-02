@@ -1,0 +1,21 @@
+.image{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2RVN-0dtWc2GkZ3jGqRpD4K6wdW0OimUnw&usqp=CAU"); 
+    height: 600px;
+    width: 100%;
+}
+.setbody{
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    padding: 100px 400px;
+    background-color: rgba(0, 0, 0, -.5);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button{
+    color:black ;
+    background-color: aquamarine;
+    font-size: 30px;
+    font-style: italic;
+}
